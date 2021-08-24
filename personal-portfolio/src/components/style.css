@@ -139,7 +139,9 @@ ul {
     overflow: hidden;
     background-color: black;
     padding: 0;
-    z-index: -4;
+    z-index: 0;
+    opacity: 50%;
+
 }
 
 #coverVideo {
