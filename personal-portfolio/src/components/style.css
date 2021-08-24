@@ -155,6 +155,6 @@ ul {
     overflow: hidden;
     background-color: black;
     padding: 0;
-    z-index: -100;
+    z-index: -10;
     opacity: 20%;
 }
