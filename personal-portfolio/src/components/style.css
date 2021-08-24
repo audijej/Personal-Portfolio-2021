@@ -156,5 +156,5 @@ ul {
     background-color: black;
     padding: 0;
     z-index: -100;
-
+    opacity: 20%;
 }
