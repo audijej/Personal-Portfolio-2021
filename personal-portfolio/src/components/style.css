@@ -137,13 +137,13 @@ ul {
 .jumbotron {
     position: relative;
     overflow: hidden;
-    background-color: red;
+    background-color: purple;
     padding: 0;
     z-index: 0;
 
 }
 
-#coverVideo {
+.coverVideo {
   position: absolute;
   z-index: 1;
   top: 0;

@@ -17,7 +17,7 @@ function LandingPage() {
 
         <Jumbotron>
 
-        <video id="coverVideo" autoPlay loop muted
+        <video className="coverVideo" autoPlay loop muted
                 // style={{
                 //     position: "absolute",
                 //     width: "100%",
