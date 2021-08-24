@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio-2021/static/css/main.c00cbe16.chunk.css",
-    "main.js": "/Personal-Portfolio-2021/static/js/main.630254f0.chunk.js",
-    "main.js.map": "/Personal-Portfolio-2021/static/js/main.630254f0.chunk.js.map",
+    "main.css": "/Personal-Portfolio-2021/static/css/main.8605aac2.chunk.css",
+    "main.js": "/Personal-Portfolio-2021/static/js/main.bddfe0d3.chunk.js",
+    "main.js.map": "/Personal-Portfolio-2021/static/js/main.bddfe0d3.chunk.js.map",
     "runtime-main.js": "/Personal-Portfolio-2021/static/js/runtime-main.19af002a.js",
     "runtime-main.js.map": "/Personal-Portfolio-2021/static/js/runtime-main.19af002a.js.map",
     "static/js/2.2db07fbc.chunk.js": "/Personal-Portfolio-2021/static/js/2.2db07fbc.chunk.js",
     "static/js/2.2db07fbc.chunk.js.map": "/Personal-Portfolio-2021/static/js/2.2db07fbc.chunk.js.map",
     "index.html": "/Personal-Portfolio-2021/index.html",
-    "static/css/main.c00cbe16.chunk.css.map": "/Personal-Portfolio-2021/static/css/main.c00cbe16.chunk.css.map",
+    "static/css/main.8605aac2.chunk.css.map": "/Personal-Portfolio-2021/static/css/main.8605aac2.chunk.css.map",
     "static/js/2.2db07fbc.chunk.js.LICENSE.txt": "/Personal-Portfolio-2021/static/js/2.2db07fbc.chunk.js.LICENSE.txt",
     "static/media/Cinementality.ed96be43.png": "/Personal-Portfolio-2021/static/media/Cinementality.ed96be43.png",
     "static/media/Devour-The-Burgers-Screenshot.65b3892f.png": "/Personal-Portfolio-2021/static/media/Devour-The-Burgers-Screenshot.65b3892f.png",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.19af002a.js",
     "static/js/2.2db07fbc.chunk.js",
-    "static/css/main.c00cbe16.chunk.css",
-    "static/js/main.630254f0.chunk.js"
+    "static/css/main.8605aac2.chunk.css",
+    "static/js/main.bddfe0d3.chunk.js"
   ]
 }
