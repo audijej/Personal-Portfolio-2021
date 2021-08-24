@@ -125,13 +125,13 @@ ul {
 {
   content: '>';
   font-size: 25px;
-  color: red;
+  color: gray;
 }
 
 .carousel-control-prev-icon:after {
   content: '<';
   font-size: 25px;
-  color: red;
+  color:gray;
 }
 
 .jumbotron {
@@ -139,7 +139,7 @@ ul {
     overflow: hidden;
     background-color: black;
     padding: 0;
-    z-index: -1;
+    z-index: -4;
 }
 
 #coverVideo {
