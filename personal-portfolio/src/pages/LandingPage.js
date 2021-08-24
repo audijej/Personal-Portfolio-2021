@@ -3,10 +3,10 @@ import React, { Component } from "react";
 import Container from 'react-bootstrap/Container'
 // import Row from "../components/Row";
 // import Col from "../components/Col";
+import FallsSlomo from "../components/Videos/FallsSlomo.mp4";
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import PortfolioImage from "../components/Images/PortfolioPic2.jpg";
 import PortfolioVideoBackground from "../components/Videos/PortfolioVideoBackground3.mp4";
-import FallsSlomo from "../components/Videos/FallsSlomo.mp4";
 import "../components/style.css";
 import { Link } from "react-router-dom";
 // import Image from 'react-bootstrap/Image'
